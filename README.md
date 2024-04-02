@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I'm Femi Abimbola
+
+## A full stack developer using Javascript and Python
+
 <!--
 **femiabimbola/femiabimbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
